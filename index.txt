@@ -1,1 +1,2 @@
 index
+Estoy editando el index desde el GitHub
